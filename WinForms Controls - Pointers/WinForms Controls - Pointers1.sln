@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms Controls - Pointers1", "WinForms Controls - Pointers1\WinForms Controls - Pointers1.csproj", "{89D32A48-4E5D-453A-84C8-B9248CA88DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D32A48-4E5D-453A-84C8-B9248CA88DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D32A48-4E5D-453A-84C8-B9248CA88DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D32A48-4E5D-453A-84C8-B9248CA88DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D32A48-4E5D-453A-84C8-B9248CA88DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39578BA1-32CC-49A0-AB7C-F30305DE263B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\bin\Debug\net8.0-windows\WinForms Controls - Pointers1.exe
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\bin\Debug\net8.0-windows\WinForms Controls - Pointers1.deps.json
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\bin\Debug\net8.0-windows\WinForms Controls - Pointers1.runtimeconfig.json
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\bin\Debug\net8.0-windows\WinForms Controls - Pointers1.dll
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\bin\Debug\net8.0-windows\WinForms Controls - Pointers1.pdb
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms_Controls___Pointers1.Form1.resources
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.csproj.GenerateResource.cache
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.AssemblyInfoInputs.cache
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.AssemblyInfo.cs
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.csproj.CoreCompileInputs.cache
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.dll
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\refint\WinForms Controls - Pointers1.dll
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.pdb
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.genruntimeconfig.cache
+F:\vsc codes\WinForms Controls - Pointers1\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\ref\WinForms Controls - Pointers1.dll
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\bin\Debug\net8.0-windows\WinForms Controls - Pointers1.exe
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\bin\Debug\net8.0-windows\WinForms Controls - Pointers1.deps.json
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\bin\Debug\net8.0-windows\WinForms Controls - Pointers1.runtimeconfig.json
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\bin\Debug\net8.0-windows\WinForms Controls - Pointers1.dll
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\bin\Debug\net8.0-windows\WinForms Controls - Pointers1.pdb
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms_Controls___Pointers1.Form1.resources
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.csproj.GenerateResource.cache
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.AssemblyInfoInputs.cache
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.AssemblyInfo.cs
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.csproj.CoreCompileInputs.cache
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.dll
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\refint\WinForms Controls - Pointers1.dll
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.pdb
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\WinForms Controls - Pointers1.genruntimeconfig.cache
+F:\vsc codes\WinForms Controls - Pointers\WinForms Controls - Pointers1\obj\Debug\net8.0-windows\ref\WinForms Controls - Pointers1.dll
