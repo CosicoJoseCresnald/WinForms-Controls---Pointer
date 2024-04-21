@@ -95,5 +95,6 @@ namespace WinForms_Controls___Pointers1
         // How to Manage Mouse Pointer - https://learn.microsoft.com/en-us/dotnet/desktop/winforms/input-mouse/how-to-manage-cursor-pointer?view=netdesktop-8.0#changing-the-mouse-pointer
         // Pointer - C# Windows Forms Control - https://youtu.be/zKb79hEqaAw?si=w9m-WMlIuGU0kZWp 
         // C# move mouse cursor - https://stackoverflow.com/questions/55061384/c-sharp-move-mouse-cursor-to-a-specific-position-on-screen-for-windows-10-64bit
+        //GitHub Link - https://github.com/CosicoJoseCresnald/WinForms-Controls---Pointer.git
     }
 }
